@@ -1,7 +1,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jetkid)](https://solved.ac/jetkid)
-
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swjoon&layout=compact)
 
 <!--
