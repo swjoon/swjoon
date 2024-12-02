@@ -1,7 +1,11 @@
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jetkid)](https://solved.ac/jetkid)
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swjoon&layout=compact)
+<div align="center">
+  <!-- Solved.ac 배지 -->
+  <a href="https://solved.ac/jetkid">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jetkid" alt="Solved.ac 프로필" />
+  </a>
+  <!-- 가장 많이 사용한 언어 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swjoon&layout=compact" alt="most languages" />
+</div>
 
 <!--
 **swjoon/swjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
