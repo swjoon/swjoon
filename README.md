@@ -1,15 +1,20 @@
-<div align="center">
+<div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=swjoon&show_icons=true&theme=radical" alt="GitHub stats" width="33%"/>
-
-  <!-- 백준 Solved.ac 배지, GitHub 통계, 사용 언어 한 줄 배치 -->
+  <!-- 백준 Solved.ac 배지 (좌측 배치, 단독 한 줄) -->
   <a href="https://solved.ac/jetkid">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jetkid" alt="Solved.ac 프로필" width="33%" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jetkid" alt="Solved.ac 프로필" height="150px"/>
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swjoon&layout=compact&langs_count=6" alt="Most used languages" width="33%" />
+  <br><br>
+
+  <!-- GitHub 통계 & 사용 언어 (한 줄 정렬) -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=swjoon&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swjoon&layout=compact&langs_count=6" alt="Most used languages" height="150px" />
+  </div>
 
 </div>
+
 
 
 
