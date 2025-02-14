@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
   <!-- 백준 Solved.ac 배지 (좌측 배치, 단독 한 줄) -->
   <a href="https://solved.ac/jetkid">
