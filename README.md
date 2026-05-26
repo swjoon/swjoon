@@ -8,11 +8,12 @@
   <br><br>
 
   <!-- GitHub 통계 & 사용 언어 (한 줄 정렬) -->
+  <!--
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=swjoon&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swjoon&layout=compact&langs_count=6" alt="Most used languages" height="150px" />
   </div>
-
+  -->
 </div>
 
 
