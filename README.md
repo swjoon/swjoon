@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 백준 Solved.ac 배지 (좌측 배치, 단독 한 줄) -->
-  <a href="https://solved.ac/jetkid">
+  <a href="https://solved.ac/ko/u/jetkid1446">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jetkid" alt="Solved.ac 프로필" height="150px"/>
   </a>
 
